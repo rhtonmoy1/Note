@@ -1,0 +1,8 @@
+                 class: is a template used to create objects and to define object data types and methods.
+                object: an object is an instance of a class
+                fields: A Java field is a variable inside a class. 
+                        For instance, in a class representing an employee, the Employee class might contain the following fields: name. position. salary.
+              function: In Java, the word method refers to the same kind of thing that the word function is used for in other languages. Specifically, 
+                        a method is a function that belongs to a class. A function is a reusable portion of a program, sometimes called a procedure or subroutine.
+                method: A method is a block of code which only runs when it is called.
+    method overloading: With method overloading, multiple methods can have the same name with different parameters. 
